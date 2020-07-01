@@ -1,16 +1,35 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
+# JS ToDoList
+- project: TO-DO list
+  role: Developer
+  duration: October 2019
+  url: "https://github.com/JustMaxvell/Maxvell-s-TO-DO-list"
+  description: Simple JS application for treaning
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
-
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+# Screen Keyboard
+- project: Screen Keyboard
+  role: Developer
+  duration: March 2020
+  url: "https://github.com/JustMaxvell/Screen-Keyboard-JS"
+  description: Simple JS applicaton for treaning skills
+  
+# Viniliser
+- project: Viniliser
+  role: Developer
+  duration: December 2019
+  url: "https://github.com/JustMaxvell/Viniliser"
+  description: Simple JS applicaton for treaning skills
+  
+# Fifteen
+- project: Fifteen
+  role: Developer
+  duration: March 2020
+  url: "https://github.com/JustMaxvell/Fifteen"
+  description: Simple JS applicaton for treaning skills
+  
+# Shoouter beta
+- project: Shoouter beta (pre pre alpha)
+  role: Developer
+  duration: March 2020
+  url: "https://github.com/JustMaxvell/shoouter_beta"
+  description: Simple JS applicaton for treaning skills   
