@@ -1,35 +1,35 @@
 # Projects
-# JS ToDoList
-- project: TO-DO list
-  role: Developer
-  duration: October 2019
-  url: "https://github.com/JustMaxvell/Maxvell-s-TO-DO-list"
-  description: Simple JS application for treaning
-
 # Screen Keyboard
 - project: Screen Keyboard
   role: Developer
-  duration: March 2020
+  duration: March, 2020
   url: "https://github.com/JustMaxvell/Screen-Keyboard-JS"
-  description: Simple JS applicaton for treaning skills
-  
-# Viniliser
-- project: Viniliser
-  role: Developer
-  duration: December 2019
-  url: "https://github.com/JustMaxvell/Viniliser"
   description: Simple JS applicaton for treaning skills
   
 # Fifteen
 - project: Fifteen
   role: Developer
-  duration: March 2020
+  duration: March, 2020
   url: "https://github.com/JustMaxvell/Fifteen"
   description: Simple JS applicaton for treaning skills
   
 # Shoouter beta
 - project: Shoouter beta (pre pre alpha)
   role: Developer
-  duration: March 2020
+  duration: March, 2020
   url: "https://github.com/JustMaxvell/shoouter_beta"
-  description: Simple JS applicaton for treaning skills   
+  description: Simple JS applicaton for treaning skills  
+  
+# Viniliser
+- project: Viniliser
+  role: Developer
+  duration: December, 2019
+  url: "https://github.com/JustMaxvell/Viniliser"
+  description: Simple JS applicaton for treaning skills
+
+# JS ToDoList
+- project: TO-DO list
+  role: Developer
+  duration: October, 2019
+  url: "https://github.com/JustMaxvell/Maxvell-s-TO-DO-list"
+  description: Simple JS application for treaning
